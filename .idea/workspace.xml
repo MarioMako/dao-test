@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c1c9d2e-ee98-4e62-a390-4af28cdf5641" name="Changes" comment="adicionada as entidades e as interfaces dao delas">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Programm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/DaoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/query/VendedorQuery.java" afterDir="false" />
+    <list default="true" id="2c1c9d2e-ee98-4e62-a390-4af28cdf5641" name="Changes" comment="DaoFactory, Query do Vendedor e a Main">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/properties/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Programm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dao/VendedorDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/VendedorDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entidades/Departamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entidades/Departamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entidades/Vendedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entidades/Vendedor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/query/VendedorQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/query/VendedorQuery.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675949923731</updated>
-      <workItem from="1675949924903" duration="10282000" />
+      <workItem from="1675949924903" duration="16002000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1675950111235</created>
@@ -94,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675952571078</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DaoFactory, Query do Vendedor e a Main">
+      <created>1675964279664</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675964279664</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +112,7 @@
     <MESSAGE value="test" />
     <MESSAGE value="adicionado os dbs e melhorado o pom" />
     <MESSAGE value="adicionada as entidades e as interfaces dao delas" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionada as entidades e as interfaces dao delas" />
+    <MESSAGE value="DaoFactory, Query do Vendedor e a Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="DaoFactory, Query do Vendedor e a Main" />
   </component>
 </project>
