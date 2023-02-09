@@ -35,7 +35,7 @@ public class Programm {
  */
         System.out.println("=====TEST 5: UPDATE======");;
         vendedor = vendedorDAO.findById(1);
-        vendedor.setNome("Mikito Hérison");
+        vendedor.setSalario(600.00);
         vendedorDAO.update(vendedor);
         System.out.println("UPDATED");
 
